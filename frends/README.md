@@ -1,24 +1,13 @@
-# README
+ ## 写経：「RailsGuides」
+ RailsGuidesがよく分からないので、練習用プロジェクトで練習します。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+開発環境:
+Rails 5.2.2.1
+sqlite3 3.19.3
 
-Things you may want to cover:
+エディタ:
+Atom (code)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ノート:
+github wiki
+　👉 [ここ](https://github.com/naoki-k/RailsGuides/wiki)
